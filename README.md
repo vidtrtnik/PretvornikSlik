@@ -6,9 +6,9 @@ Skripta <code class="language-plaintext highlighter-rouge">PRETVORI.bat</code> p
 
 
 Konverzija slik se izvede z vnaprej pripravljenimi parametri:
-- JPEG format, Interlaced
-- skaliranje: 66%,
-- kvaliteta: 85
+- JPEG format - Interlaced,
+- zmanjšanje: na 1000px višine,
+- kvaliteta: 90,
 - barvni prostor: sRGB,
 - strip (odstranitev metapodatkov, komentarjev...)
 
